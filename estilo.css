@@ -1,0 +1,14 @@
+.izquierda {
+    background-color: brown;
+    width: 30%;
+    height: 600px;
+    float: left;
+    margin: 15px;
+    position:fixed;
+}
+
+.derecha {
+    background-color: cornflowerblue;
+    float: right;
+    width: 65%;
+}
